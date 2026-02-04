@@ -4,8 +4,8 @@ customer_id,gender,age,tenure_months,monthly_charges,total_charges,contract_type
 3,Male,45.0,6.0,80.1,480.0,Month-to-month,Fiber optic,Electronic Check,Yes,1,0-1 year
 4,Female,38.0,36.0,60.0,2160.0,Two year,DSL,Credit Card,No,0,2-3 years
 5,Male,50.0,48.0,90.2,4330.0,Two year,Fiber optic,Bank Transfer,No,0,3+ years
-6,Female,38.43835616438356,3.0,75.5,226.0,Month-to-month,Fiber optic,Electronic Check,Yes,1,0-1 year
-7,Male,28.0,1.0,65.0,1863.078082191781,Month-to-month,DSL,Electronic Check,Yes,1,0-1 year
+6,Female,38.44,3.0,75.5,226.0,Month-to-month,Fiber optic,Electronic Check,Yes,1,0-1 year
+7,Male,28.0,1.0,65.0,1863.08,Month-to-month,DSL,Electronic Check,Yes,1,0-1 year
 8,Female,42.0,60.0,55.0,3300.0,Two year,DSL,Credit Card,No,0,3+ years
 9,Male,31.0,18.0,70.2,1263.0,One year,Fiber optic,Bank Transfer,No,0,1-2 years
 10,Female,35.0,12.0,68.9,827.0,Month-to-month,Fiber optic,Electronic Check,Yes,1,0-1 year
@@ -31,10 +31,10 @@ customer_id,gender,age,tenure_months,monthly_charges,total_charges,contract_type
 30,Female,43.0,48.0,75.2,3609.6,Two year,Fiber optic,Bank Transfer,No,0,3+ years
 31,Male,34.0,12.0,70.5,846.0,Month-to-month,Fiber optic,Credit Card,Yes,1,0-1 year
 32,Male,34.0,12.0,70.5,846.0,Month-to-month,Fiber optic,Credit Card,Yes,1,0-1 year
-33,Female,37.0,23.60810810810811,66.0,792.0,Month-to-month,DSL,Electronic Check,Yes,1,1-2 years
-34,Male,45.0,24.0,73.13783783783785,1800.0,One year,Fiber optic,Bank Transfer,No,0,1-2 years
+33,Female,37.0,23.61,66.0,792.0,Month-to-month,DSL,Electronic Check,Yes,1,1-2 years
+34,Male,45.0,24.0,73.14,1800.0,One year,Fiber optic,Bank Transfer,No,0,1-2 years
 35,Female,29.0,6.0,59.0,354.0,Unknown,DSL,Electronic Check,Yes,1,0-1 year
-36,Male,52.0,48.0,92.1,1863.078082191781,Two year,Fiber optic,Credit Card,No,0,3+ years
+36,Male,52.0,48.0,92.1,1863.08,Two year,Fiber optic,Credit Card,No,0,3+ years
 37,Female,33.0,12.0,67.8,813.6,Month-to-month,DSL,Electronic Check,Yes,1,0-1 year
 38,Male,47.0,36.0,84.5,3042.0,Two year,Fiber optic,Bank Transfer,No,0,2-3 years
 39,Female,41.0,24.0,70.0,1680.0,One year,DSL,Credit Card,No,0,1-2 years
@@ -44,7 +44,7 @@ customer_id,gender,age,tenure_months,monthly_charges,total_charges,contract_type
 43,Male,36.0,18.0,72.3,1301.0,One year,Fiber optic,Credit Card,No,0,1-2 years
 44,Female,48.0,36.0,86.0,3096.0,Two year,Fiber optic,Bank Transfer,No,0,2-3 years
 45,Male,32.0,8.0,69.0,552.0,Month-to-month,DSL,Electronic Check,Yes,1,0-1 year
-46,Female,38.43835616438356,24.0,63.0,1512.0,One year,DSL,Credit Card,No,0,1-2 years
+46,Female,38.44,24.0,63.0,1512.0,One year,DSL,Credit Card,No,0,1-2 years
 47,Male,39.0,12.0,71.2,854.4,Month-to-month,Fiber optic,Electronic Check,Yes,1,0-1 year
 48,Female,44.0,48.0,90.5,4344.0,Two year,Fiber optic,Bank Transfer,No,0,3+ years
 49,Male,27.0,4.0,66.0,264.0,Month-to-month,DSL,Electronic Check,Yes,1,0-1 year
